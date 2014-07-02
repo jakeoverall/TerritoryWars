@@ -1,4 +1,4 @@
 TerritoryWars
 =============
 
-A small game of rock paper scissors to conquer different territories
+A small game of chance to conquer enemy territories
